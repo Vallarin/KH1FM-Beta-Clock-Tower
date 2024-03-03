@@ -1,0 +1,42 @@
+title: KH1FM Beta Clock Tower
+game: kh1
+logo: Icon.png
+originalAuthor: Vallarin
+description: Restores the Beta Clock Tower textures in Neverland.
+assets:
+ - name: remastered/pp00_03.img/-63da2.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-63da2.dds
+ - name: remastered/pp00_03.img/-73da1.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-73da1.dds
+ - name: remastered/pp00_03.img/-83da2.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-83da2.dds
+ - name: remastered/pp00_03.img/-83da2.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-83da2.dds
+ - name: remastered/pp00_03.img/-113da0.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-113da0.dds
+ - name: remastered/pp00_03.img/-123da0.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-123da0.dds
+ - name: remastered/pp00_03.img/-b3da3.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-b3da3.dds
+ - name: remastered/pp00_03.img/-b3da4.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-b3da4.dds
+ - name: remastered/pp00_03.img/-f3da0.dds
+   method: copy
+   source:
+     - name: remastered/pp00_03.img/-f3da0.dds
